@@ -594,6 +594,34 @@ footer {
 	font-size: 1.2em
 }
 
+#certifications {
+	padding: 50px 15px;
+	text-align: center
+}
+
+#certifications h2 {
+	color: #0c0032;
+	margin-bottom: 50px
+}
+
+#certifications  ul {
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 800px
+}
+
+#certifications  li {
+	display: inline-block;
+	margin: 7px;
+	padding: 5px 10px;
+	color: #0c0032;
+	background: #e4e4ea;
+	list-style: none;
+	cursor: default;
+	font-size: 1.2em
+}
+
 #languages {
 	padding: 50px 15px;
 	text-align: center
