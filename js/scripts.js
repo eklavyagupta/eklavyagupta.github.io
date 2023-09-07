@@ -2,7 +2,6 @@
     Title: Dev Portfolio Template
     Version: 1.2.1
     Last Change: 08/27/2017
-    Author: Ryan Fitzgerald
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
     Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
 
@@ -27,7 +26,7 @@
 
         $('html, body').animate({
             scrollTop: scrollDistance + 'px'
-        }, Math.abs(window.pageYOffset - $(heading).offset().top) / 1);
+        }, Math.abs(window.pageYOffset - $(heading).offset().top) / 8);
 
         // Hide the menu once clicked if mobile
         if ($('header').hasClass('active')) {
