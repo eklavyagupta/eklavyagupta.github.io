@@ -299,6 +299,12 @@ footer {
 	margin-bottom: 15px
 }
 
+#lead-overlay {
+
+	height: 1%;
+	width: 1%;
+
+}
 
 #lead-down {
 	position: absolute;
